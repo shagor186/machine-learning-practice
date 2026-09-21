@@ -1,4 +1,3 @@
-::: {align="center"}
 # Machine Learning Practice
 
 ### A structured, hands-on journey from ML fundamentals to production-ready machine learning.
@@ -9,9 +8,8 @@
 [![Status](https://img.shields.io/badge/Status-Learning%20%26%20Practice-informational)]()
 
 **Author:** Md. Shagor Ali
-:::
 
-------------------------------------------------------------------------
+---
 
 ## About This Repository
 
@@ -337,9 +335,7 @@ feel free to open an issue or start a discussion.
 -   **GitHub:** https://github.com/shagor186
 -   **LinkedIn:** www.linkedin.com/in/shagor186
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
 **Learn consistently • Practice deliberately • Build projects • Document
 progress**
-:::
